@@ -1,0 +1,11 @@
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\bin\Debug\ılceSecım.exe.config
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\bin\Debug\ılceSecım.exe
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\bin\Debug\ılceSecım.pdb
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.csproj.AssemblyReference.cache
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.Form1.resources
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.Form2.resources
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.Properties.Resources.resources
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.csproj.GenerateResource.cache
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.csproj.CoreCompileInputs.cache
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.exe
+C:\Users\yiitg\Desktop\Udemy Projeler\ılceSecım\ılceSecım\obj\Debug\ılceSecım.pdb
